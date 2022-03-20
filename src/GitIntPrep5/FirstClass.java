@@ -32,7 +32,8 @@ public class FirstClass {
 		 * git merge (compares the changes)
 		 * git pull (make updates)
 		 */
-		//9th line Teammate
+		//9th line Teammate1
+		//10th line Teamate2
 
 	}
 }
