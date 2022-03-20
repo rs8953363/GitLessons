@@ -36,5 +36,20 @@ public class FirstClass {
 		//9th line Teammate1
 		
 		//10th line Rose
+		
+		/* To create a branch write codes in that branch and merge with main branch 
+		 * git branch (to help you see the branches and which branch you are at)
+		 * git branch Gul
+		 * git checkout Gul
+		 * git add . (To add your codes to your staging area. After writing your code and saving your file, type git add .)
+		 * git commit -m"v001 Gul" (to save your changes in your local branch)
+		 * git branch (to see which branch you are at)
+		 * git checkout main
+		 * git merge Gul
+		 * git checkout Gul 
+		 */
+		
+		//11th line
+		//12th line - Gul branch
 	}
 }
