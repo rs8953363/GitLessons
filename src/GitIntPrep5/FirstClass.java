@@ -18,6 +18,7 @@ public class FirstClass {
 		//4th line
 		//5th line
 		//6th line
+		//7th line
 		
 		/*To push your codes from your local repository to remote one
 		 * git add .
