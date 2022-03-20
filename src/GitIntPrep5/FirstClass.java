@@ -44,11 +44,12 @@ public class FirstClass {
 		 * git add . (After writing your code and saving your file)
 		 * git commit -m"v001 Gul" (to save your codes)
 		 * git checkout main (to switch the main branch. You merge your files while you are in main branch)
-		 * git merge Gul
-		 * git checkout Gul 
+		 * git merge Gul (You type this command while you're in main branch
+		 * git checkout Gul (to go back to your branch)
 		 */
 		
 		//11th line
 		//12th line - Gul branch
+		//13th line - Gul branch changes
 	}
 }
