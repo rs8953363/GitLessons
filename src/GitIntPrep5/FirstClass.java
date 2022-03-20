@@ -42,7 +42,7 @@ public class FirstClass {
 		 * git branch Gul
 		 * git checkout Gul
 		 * git add . (After writing your code and saving your file)
-		 * git commit -m"v001 Gul"
+		 * git commit -m"v001 Gul" (to save your codes)
 		 * git merge Gul
 		 * git checkout Gul 
 		 */
