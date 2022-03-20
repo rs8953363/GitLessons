@@ -29,7 +29,7 @@ public class FirstClass {
 		/* To import the updated codes to your repository and see changes
 		 * git fetch (gets the changes)
 		 * git merge (compares the changes)
-		 * git pull
+		 * git pull (make updates)
 		 */
 	}
 }
