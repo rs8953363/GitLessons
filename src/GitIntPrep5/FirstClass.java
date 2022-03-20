@@ -38,7 +38,7 @@ public class FirstClass {
 		//10th line Rose
 		
 		/* To create a branch write codes in that branch and merge with main branch 
-		 * git branch
+		 * git branch (to help you see the branches and which branch you are at)
 		 * git branch Gul
 		 * git checkout Gul
 		 * git add . (After writing your code and saving your file)
