@@ -36,5 +36,15 @@ public class FirstClass {
 		//9th line Teammate1
 		
 		//10th line Rose
+		
+		/* git branch
+		 * git branch Gul
+		 * git checkout Gul
+		 * git merge Gul
+		 * git checkout Gul 
+		 */
+		
+		//11th line
+		//12th line - Gul branch
 	}
 }
