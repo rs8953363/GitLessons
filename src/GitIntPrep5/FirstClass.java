@@ -44,7 +44,7 @@ public class FirstClass {
 		 * git add . (To add your codes to your staging area. After writing your code and saving your file, type git add .)
 		 * git commit -m"v001 Gul" (to save your changes in your local branch)
 		 * git branch (to see which branch you are at)
-		 * git checkout main
+		 * git checkout main (to switch to main branch)
 		 * git merge Gul
 		 * git checkout Gul 
 		 */
