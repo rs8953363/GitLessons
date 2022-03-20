@@ -32,7 +32,12 @@ public class FirstClass {
 		 * git merge (compares the changes)
 		 * git pull (make updates)
 		 */
+<<<<<<< HEAD
 		//9th line Teammate
+=======
+		//9th line Teammate1
+		//10th line Teamate2 
+>>>>>>> refs/remotes/origin/main
 
 		//10th line Rose
 	}
