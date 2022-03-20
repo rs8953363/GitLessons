@@ -60,8 +60,11 @@ public class FirstClass {
 		//13th line - Gul branch changes
 		
 		/* To send your changes to remote repository for your tem lead to see and merge them:
-		 * 
+		 * git checkout Gul
+		 * git add .
+		 * git commit -m"v003"
+		 * git push
 		 */
-		 */
+		 
 	}
 }
