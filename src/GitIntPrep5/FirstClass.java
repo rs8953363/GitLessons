@@ -46,6 +46,9 @@ public class FirstClass {
 		 * git branch (to see which branch you are at)
 		 * git checkout main (to switch the main branch. You merge your files while you are in main branch)
 		 * git merge Gul (You type this command while you're in main branch
+		 * git add .(type it while you are in main branch)
+		 * git commit -m"v002"(type it while you are in main branch) 
+		 * git push (type it while you are in main branch) 
 		 * git checkout Gul (to go back to your branch)
 		 */
 		
