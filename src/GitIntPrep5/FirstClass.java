@@ -50,6 +50,10 @@ public class FirstClass {
 		 * git commit -m"v002"(type it while you are in main branch) 
 		 * git push (type it while you are in main branch) 
 		 * git checkout Gul (to go back to your branch)
+		 * If you want to push the current branch and set the remote as upstream, use
+   			git push --set-upstream origin Gul (OR git push -u origin Gul)(This is required only for the first time. If you do more changes on 
+   			your file and want to push your code you can just use git push)
+		 * Don't forget to save changes each time you update your code
 		 */
 		
 		//11th line
